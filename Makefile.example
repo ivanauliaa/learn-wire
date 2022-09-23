@@ -1,0 +1,5 @@
+migrate-up:
+	migrate -path ./database/migration -database "<data_source_name>" up
+
+migrate-down:
+	migrate -path ./database/migration -database "<data_source_name>" down

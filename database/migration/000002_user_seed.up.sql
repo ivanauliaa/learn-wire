@@ -1,0 +1,1 @@
+INSERT INTO users VALUES("user-123456789", "johndoe", "john_doe");
